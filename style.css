@@ -1,0 +1,70 @@
+.iphone2{
+     /* background-color: aqua; */
+        width: 50%;
+        float: left;
+        height: 400px;
+        /*width: 200px;*/
+        
+}
+.iphone1{
+        padding: 60px;
+        margin: 0%;
+        height: 400px;
+        
+}
+.iphone3{
+        /* background-color: aqua; */
+           width: 50%;
+           float: left;
+           height: 500px;
+           padding-top: 0px;
+   }
+   .launch-time{
+        display: flex;
+        float: left;
+   }
+   #time{
+        padding: 20px;
+        font-size: 30px;
+   }
+   .body{
+     margin: 0px;
+     padding: 0px;
+   }
+   #days p{
+        font-size: 60px;
+   }
+   #hours p{
+        font-size: 60px;
+   }
+  
+   #seconds p{
+        font-size: 60px;
+   }
+  
+   #minutes p{
+        font-size: 60px;
+   }
+   .topnav{
+     width: 100%;
+     background-color: azure;
+    overflow: hidden;
+     color: black;
+     padding: 10px;
+     display: block;
+margin: 0%;
+   }
+   .topnav a{
+      float:left;
+     padding: 10px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   button{
+     color: black;
+     background-color: white;
+     padding: 10px 10px;
+     margin-top: 0px;
+     cursor: pointer;
+     
+     margin-left: 50px;
+   }
